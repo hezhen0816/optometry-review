@@ -4,6 +4,13 @@ An unofficial SwiftUI study app for Taiwan’s optometrist exam, with a mistake 
 
 這是獨立開發的非官方專案，與考選部無隸屬或合作關係。本儲存庫不再散布考選部試題、答案、試卷 PDF 或附圖。專案將自行取得的歷屆試卷轉成可練習的本機題庫，用作答紀錄安排複習，並追蹤各科的弱點。
 
+
+<p align="center">
+  <img src="docs/images/today.png" width="260" alt="今日複習畫面：今天答對題數、待複習題數與各科要再練的錯題數">
+  <img src="docs/images/subject.png" width="260" alt="單科成績畫面：模擬考分數走勢、新題與複習題正確率、較弱的單元">
+</p>
+<p align="center"><sub>今日複習與單科成績（範例資料）</sub></p>
+
 ## 功能
 
 - 錯題本、收藏、作答紀錄與 FSRS-6 間隔複習。
