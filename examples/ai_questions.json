@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "sample": true,
+  "questions": [
+    {
+      "id": "ai:fictional:1",
+      "templateId": "fictional",
+      "subject": "視覺光學",
+      "unitID": "視覺光學-demo",
+      "pointIDs": [
+        "視覺光學-demo#1"
+      ],
+      "stem": "【虛構示範】雲端燈塔每晚發出 2 道紫光，連續 3 晚共有幾道？",
+      "options": {
+        "A": "2 道",
+        "B": "3 道",
+        "C": "5 道",
+        "D": "6 道"
+      },
+      "answer": "D",
+      "wrongNotes": {
+        "A": "只算一晚",
+        "B": "只算晚數",
+        "C": "把每晚道數和晚數相加"
+      },
+      "steps": [
+        "2 × 3 = 6 道"
+      ],
+      "sourceQuestionID": "999001_視覺光學_1",
+      "sample": true
+    }
+  ]
+}
